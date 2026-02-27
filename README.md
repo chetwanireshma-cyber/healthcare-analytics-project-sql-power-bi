@@ -50,4 +50,5 @@ Perform revenue and performance analysis
 Build KPI-driven dashboards
 Translate healthcare data into actionable business insights.
 
-DASHBOARD SNAPSHOT
+DASHBOARD SNAPSHOT-
+LINK FOR DASHBOARD SNAPSHOT- https://github.com/chetwanireshma-cyber/healthcare-analytics-project-sql-power-bi/blob/main/HEALTHCARE%20PERFORMANCE.png

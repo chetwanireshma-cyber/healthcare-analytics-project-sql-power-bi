@@ -49,3 +49,5 @@ Write SQL queries (joins, group by, subqueries)
 Perform revenue and performance analysis
 Build KPI-driven dashboards
 Translate healthcare data into actionable business insights.
+
+DASHBOARD SNAPSHOT
